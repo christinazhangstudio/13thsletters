@@ -8,7 +8,7 @@ It's spooky season! The supernatural is par for the course. This project incorpo
 
 - - - -
 ## What it does
-
+This web-based application allows users to create an account, sign in, and sign out. Users can initiate communication with "spirits" by sending any line of text. They can delete a text entry by clicking "Remove." Next is uploading image(s), where users have the convenient options of uploading from local files, a web address, the device camera, Google Drive, Facebook, etc. Note: users should be sure to click "Advanced" in the bottom left corner and add "13" as the image tag. 13th, like all other cats (*like all other cats from Earth), needs to be bugged a little to do something sometimes. Since 13th can travel through different dimensions or layers of the spirit realm, and since different kinds of spirits, with various levels of perceptions, strengths, and abilities, live in these planes, there are several ways the text and images users upload are altered. A random text is selected to be paired with the image(s) uploaded - for a different text, users may add some more messages. These altered creations are able to be viewed instantaneously. Moreover, users are able to save them to their device. There's also a light mode and dark mode for the UI!
 
 - - - -
 ## Technical Notes

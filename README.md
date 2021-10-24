@@ -4,7 +4,7 @@ This project was authored by Christina Zhang in Fall 2021 for the Code Quantum H
 
 - - - -
 ## Inspiration
-It's spooky season! The supernatural is par for the course. This project incorporates my fascination with computational creativity as well as how art and language is used and arranged, especially in a digital landscape. Moreover, as someone who herself/themself finds incongruence with conventional binary norms, I often find that interacting on most popular social platforms to be quite stressful. With a hackathon geared toward people of marginalized genders, I wanted to work on a platform that places emphasis on creative productions and visuals, not so much on stratified conventions and groups. I want the public to easily access and create art, one in a form that is inclusive, intriguing, and insightful.
+It's spooky season! The supernatural is par for the course. This project incorporates my fascination with computational creativity as well as how art and language is used and arranged, especially in a digital landscape. With a hackathon geared toward people of marginalized genders, I wanted to work on a platform that places emphasis on creative productions. I want the public to easily share and create art, one in a form that is inclusive, intriguing, and insightful.
 
 - - - -
 ## What it does

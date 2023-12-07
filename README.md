@@ -1,6 +1,6 @@
 # 13th's Letters
 
-This project was authored by Christina Zhang in Fall 2021 for the Code Quantum Hackathon. If you're wondering, deployment is still in progress; who woulda thought that deployment would take over an hour (I guess that's what I get for using free-tier on all everything). Update! Deployed app can be found here: [13thsletter.meteorapp.com](13thsletter.meteorapp.com)
+This project was authored by Christina Zhang in Fall 2021 for the Code Quantum Hackathon. If you're wondering, deployment is still in progress; who woulda thought that deployment would take over an hour (I guess that's what I get for using free-tier on all everything). ~~Update! Deployed app can be found here: [13thsletter.meteorapp.com](13thsletter.meteorapp.com)~~ (no longer maintained)
 
 - - - -
 ## Inspiration
